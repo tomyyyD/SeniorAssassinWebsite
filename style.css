@@ -1,0 +1,65 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: rgb(22, 22, 24);
+    color: whitesmoke;
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0;
+    padding-top: 100px;
+    box-sizing: border-box;
+}
+
+.title{
+    font-size: 4em;
+}
+
+.menu{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding-left: 50%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background: grey;
+}
+
+.menuButton{
+    flex: 1;
+    text-align: center;
+}
+
+.playerContainer{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    background: grey;
+    border-radius: 10px;
+    overflow: hidden;
+    border: white solid 2px;
+}
+
+.playerBlock{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+}
+
+.playerList{
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    padding: 0;
+    align-items: center;
+}
+
+.active{
+    background-color: rgb(9, 46, 14);
+}
+.dead{
+    background-color: rgb(53, 9, 9);
+}
