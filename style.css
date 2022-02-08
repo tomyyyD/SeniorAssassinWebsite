@@ -1,3 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+
 body{
     display: flex;
     flex-direction: column;
@@ -14,21 +18,36 @@ body{
     font-size: 4em;
 }
 
-.menu{
+.menuContainer{
+    background: rgb(22, 22, 24);
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
-    padding-left: 50%;
+    border-bottom: 2px white solid;
+}
+
+.menu{
+    width: 50%;
     height: 60px;
     display: flex;
     align-items: center;
-    background: grey;
+    justify-content: left;
 }
 
 .menuButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     flex: 1;
+    text-decoration: none;
     text-align: center;
+    color: whitesmoke;
+    height: 100%;
+}
+
+.selected{
+    border-bottom: 5px orangered solid;
 }
 
 .playerContainer{

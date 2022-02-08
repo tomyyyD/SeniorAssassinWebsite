@@ -11,15 +11,27 @@
 </head>
 <body>
 
-    <div class="menu">
-        <a href="#" class="menuButton">Home</a>
-        <a href="#" class="menuButton">Rules</a>
-        <a href="#" class="menuButton">Player List</a>
-        <a href="#" class="menuButton">Schedule</a>
+    <div class="menuContainer">
+        <div class="menu">
+            <a href="./index.html" class="menuButton selected">Home</a>
+            <a href="./rules.html" class="menuButton">Rules</a>
+            <a href="./playerList.html" class="menuButton">Player List</a>
+            <a href="./schedule.html" class="menuButton">Schedule</a>
+        </div>    
     </div>
 
     <h1 class="title">Senior Assassin</h1>
     <h1 id="timer">Next Round:</h1>
+
+    <div class="playerContainer">
+        <div class="playerBlock">
+            <h1>Deaths Today</h1>
+            <ul class="playerList">
+                <li>Evan Hild</li>
+                <li>Dean Mihos</li>
+            </ul>
+        </div>
+    </div>
 
     <div class="playerContainer">
         <div class="playerBlock active">
@@ -34,11 +46,16 @@
         <div class="playerBlock dead">
             <h1>Dead Players</h1>
             <ul class="playerList">
-
+                <li>Liam Harrington</li>
             </ul>
         </div>
     </div>
 
+    <div class="playerContainer">
+        <div class="playerBlock">
+            <a href="https://www.instagram.com/2022_senior_assassin"><img src="./Assets/IGlogo.png" alt="Instagram" width="40vw"></a>
+        </div>
+    </div>
     <script src="./scripts.js"></script>
 
 </body>
