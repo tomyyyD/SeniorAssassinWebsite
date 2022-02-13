@@ -1,4 +1,4 @@
-var finalDate = new Date ("March 12, 2022 00:00:00").getTime()
+var finalDate = new Date ("April 18, 2022 00:00:00").getTime()
 
 setInterval(function(){
     var deltaTime = finalDate - Date.now() //ms elapsed since the start
