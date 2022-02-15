@@ -6,6 +6,7 @@ li{
     margin: 5px 0;
 }
 
+
 body{
     display: flex;
     flex-direction: column;
@@ -104,4 +105,22 @@ body{
 .rulesDoc{
     width: 100%;
     height: 80vh;
+}
+
+.schedule{
+    border: whitesmoke 2px solid;
+    border-collapse: collapse;
+}
+
+td, th{
+    border: 2px whitesmoke solid;
+}
+
+.scheduleEvent{
+    margin-left: 20px;
+    list-style-type: none;
+}
+
+.eventList{
+    padding: 0;
 }
