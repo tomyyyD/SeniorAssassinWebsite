@@ -53,6 +53,11 @@ body{
     height: 100%;
 }
 
+.timerContainer{
+    display: flex;
+    flex-direction: row;
+}
+
 .selected{
     border-bottom: 5px orangered solid;
 }
@@ -107,6 +112,8 @@ body{
     height: 80vh;
 }
 
+
+/* Calendar page style */
 .schedule{
     border: whitesmoke 2px solid;
     border-collapse: collapse;
@@ -165,4 +172,31 @@ td, th{
 
 .weekFiveDay{
     background-color: orchid;
+}
+
+/* mobile device CSS changse*/
+@media (max-width: 800px){
+    .menu{
+        width: 100%;
+    }
+
+    .title{
+        text-align: center;
+    }
+
+    .timerContainer{
+        flex-direction: column;
+    }
+
+    .timerText{
+        text-align: center;
+    }
+
+    .blockTitle{
+        text-align: center;
+    }
+
+    .footer{
+        padding: 0 30px;
+    }
 }

@@ -7,7 +7,7 @@ setInterval(function(){
     var minutes = Math.floor((deltaTime % (1000 * 60 * 60)) / (1000 * 60));
     var seconds = Math.floor((deltaTime % (1000 * 60)) / 1000);
     
-    document.getElementById("timer").innerHTML = "Next Round: " + days + "d " + hours + "h " + minutes + "m " + seconds + "s"
+    document.getElementById("timer").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s"
 
     if (deltaTime < 0){
         clearInterval(x)
