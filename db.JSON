@@ -1,0 +1,12 @@
+{
+    "players":[
+        {
+            "id":"Thomas Damiani",
+            "isAlive":true
+        },
+        {
+            "id":"Nick Wood",
+            "isAlive":false
+        }
+    ]
+}
