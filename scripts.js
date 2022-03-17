@@ -14,9 +14,3 @@ setInterval(function(){
         document.getElementById("demo").innerHTML = "EXPIRED";
     }
 }, 1000)
-
-addEntry(function(){
-    var firstName = document.getElementById("fname").value;
-    var lastName = document.getElementById("lname").value;
-    var status = document.getElementById("status").value;
-})
