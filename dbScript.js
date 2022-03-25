@@ -8,45 +8,7 @@ var players = {
             "diedToday":false,
         }
         */
-        {
-            "name":"Thomas Damiani",
-            "isAlive":true,
-            "diedToday":false,
-        },
-        {
-            "name":"Nick Wood",
-            "isAlive":false,
-            "diedToday":true,
-        },
-        {
-            "name":"Taylor Marburger",
-            "isAlive":true,
-            "diedToday":false,
-        },
-        {
-            "name":"Andrew LaGreca",
-            "isAlive":true,
-            "diedToday":false,
-        },
-        {
-            "name":"Aron Kirby",
-            "isAlive":false,
-            "diedToday":false,
-        },
-        {
-            "name":"Izzy LeBlanc",
-            "isAlive":false,
-            "diedToday":true,
-        },
-        {
-            "name":"August Crane",
-            "isAlive":false,
-            "diedToday":false,
-        }, 
-        {
-            "name":"Joe Biden",
-            "isAlive":true,
-            "diedToday":false,
+        
         },
         
     ]
