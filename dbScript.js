@@ -42,7 +42,13 @@ var players = {
             "name":"August Crane",
             "isAlive":false,
             "diedToday":false,
+        }, 
+        {
+            "name":"Joe Biden",
+            "isAlive":true,
+            "diedToday":false,
         },
+        
     ]
 };
 
