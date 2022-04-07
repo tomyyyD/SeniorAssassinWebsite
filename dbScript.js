@@ -153,6 +153,41 @@ var players = {
             "isAlive":true,
             "diedToday":false,
         },
+        {
+            "name":"Will Cody",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Will Jaeger",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Anant Pothakamury",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Gracyn Smith",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Sydney Smith",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Sam Ferreira",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Sydney Trapp",
+            "isAlive":true,
+            "diedToday":false,
+        },
 
     ]
 };
