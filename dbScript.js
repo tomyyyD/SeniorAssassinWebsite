@@ -124,11 +124,6 @@ var players = {
             "diedToday":false,
         },
         {
-            "name":"",
-            "isAlive":true,
-            "diedToday":false,
-        },
-        {
             "name":"Cole Swierczech",
             "isAlive":true,
             "diedToday":false,
@@ -179,7 +174,7 @@ var players = {
             "diedToday":false,
         },
         {
-            "name":"Sam Ferreira",
+            "name":"Will Cano",
             "isAlive":true,
             "diedToday":false,
         },
