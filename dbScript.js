@@ -3,14 +3,97 @@ var players = {
         /*
         Sample Player Entry
         {
-            "name":"John Doe",
+            "name":"Victor Momney",
             "isAlive":true,
             "diedToday":false,
         }
         */
-        
+        { 
+            "name":"Gryphen Ferguson",
+            "isAlive":true,
+            "diedToday":false,
         },
-        
+        { 
+            "name":"Lauren Neuhoff",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Grace Moser",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Bri Landwersiek",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Morgan Weaver",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Kyle Isleib",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Tara Wittlinger",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Cole Swierczek",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"James Joyce",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Jenny Ruotolo",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Rachel Metz",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Ethan Miller",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Thomas Damiani",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Chelsea McNeff",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Ellie Koitzsch",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Quinn Defibaugh",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Taylor Marburger",
+            "isAlive":true,
+            "diedToday":false,
+        },
+
     ]
 };
 
