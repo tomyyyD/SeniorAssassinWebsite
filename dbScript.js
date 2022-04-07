@@ -44,7 +44,7 @@ var players = {
             "diedToday":false,
         },
         {
-            "name":"Cole Swierczek",
+            "name":"Bennet Stutzmen",
             "isAlive":true,
             "diedToday":false,
         },
@@ -95,6 +95,61 @@ var players = {
         },
         {
             "name":"Sam Ferreira",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"James Armstrong",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Ellie Kalbach",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Zachary Lineman",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Caleigh Bold",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Charlotte Camp",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Cole Swierczech",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Parker Waldman",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Liam Harrington",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Dylan Gazda",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Dean Mihos",
             "isAlive":true,
             "diedToday":false,
         },
