@@ -93,6 +93,11 @@ var players = {
             "isAlive":true,
             "diedToday":false,
         },
+        {
+            "name":"Sam Ferreira",
+            "isAlive":true,
+            "diedToday":false,
+        },
 
     ]
 };
