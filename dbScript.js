@@ -183,6 +183,31 @@ var players = {
             "isAlive":true,
             "diedToday":false,
         },
+        {
+            "name":"August Crane",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Colin Horger",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Alyssa Greiner",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Izzy LeBlanc",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Abby Norton",
+            "isAlive":true,
+            "diedToday":false,
+        },
 
     ]
 };
