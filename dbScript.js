@@ -218,7 +218,16 @@ var players = {
             "isAlive":true,
             "diedToday":false,
         },
-
+        {
+            "name":"Jason Commentucci",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Tim Brooks",
+            "isAlive":true,
+            "diedToday":false,
+        },
     ]
 };
 
