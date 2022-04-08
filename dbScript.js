@@ -188,11 +188,12 @@ var players = {
 };
 
 window.onload = e => {
+    let playerCounter = 0;
     for (let i = 0; i < players.player.length; i++){
         let newPlayer = document.createElement("li");
         let playerLiText = document.createTextNode(players.player[i].name)
         newPlayer.appendChild(playerLiText);
-        
+        playerCounter++;
         if (players.player[i].isAlive){    
             const aliveList = document.getElementById("alivePlayerList");
             aliveList.appendChild(newPlayer);
@@ -211,4 +212,5 @@ window.onload = e => {
             }
         }
     }
+    document.getElementById("playerCounter").innerHTML = playerCounter;
 };
