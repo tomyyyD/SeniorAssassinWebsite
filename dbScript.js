@@ -208,6 +208,16 @@ var players = {
             "isAlive":true,
             "diedToday":false,
         },
+        {
+            "name":"Aidan O'Neil",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Kaily Zakarevicz",
+            "isAlive":true,
+            "diedToday":false,
+        },
 
     ]
 };
