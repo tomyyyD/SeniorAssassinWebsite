@@ -228,6 +228,11 @@ var players = {
             "isAlive":true,
             "diedToday":false,
         },
+           {
+            "name":"Taylor Freeze",
+            "isAlive":true,
+            "diedToday":false,
+        },
     ]
 };
 
