@@ -183,6 +183,116 @@ var players = {
             "isAlive":true,
             "diedToday":false,
         },
+        {
+            "name":"August Crane",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Colin Horger",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Alyssa Greiner",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Izzy LeBlanc",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Abby Norton",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Aidan O'Neil",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Kaily Zakarevicz",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Jason Commentucci",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Tim Brooks",
+            "isAlive":true,
+            "diedToday":false,
+        },
+           {
+            "name":"Taylor Freeze",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Julia Forrest",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Cali Hensley",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Bradleigh Barcus",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Avery White",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Megan Himmelreich",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Faith Turnbull",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Alina Orzechowski",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Kyra Emery",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Lauren Rivkins",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Carson Johnson",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Kate Callahan",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Katelyn Scheeler",
+            "isAlive":true,
+            "diedToday":false,
+        },
 
     ]
 };
