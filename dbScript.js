@@ -293,7 +293,11 @@ var players = {
             "isAlive":true,
             "diedToday":false,
         },
-
+        {
+            "name":"Bre Callahan",
+            "isAlive":true,
+            "diedToday":false,
+        },
     ]
 };
 
