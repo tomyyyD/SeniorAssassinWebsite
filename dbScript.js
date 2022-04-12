@@ -298,6 +298,61 @@ var players = {
             "isAlive":true,
             "diedToday":false,
         },
+        {
+            "name":"Tommy Lewmen",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Emma Gubanich",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Morgan Flaim",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Ella VanDruff",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Carlee Bonanno",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Bre Callahan",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Evan Hild",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Brooke Aijala",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Sydney Campbell",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Alex Lobello",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Lillian Heckler",
+            "isAlive":true,
+            "diedToday":false,
+        },
     ]
 };
 
