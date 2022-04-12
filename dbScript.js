@@ -353,6 +353,16 @@ var players = {
             "isAlive":true,
             "diedToday":false,
         },
+        {
+            "name":"Ashton Shrum",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Grace Storti",
+            "isAlive":true,
+            "diedToday":false,
+        },
     ]
 };
 
