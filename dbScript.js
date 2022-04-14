@@ -473,7 +473,11 @@ var players = {
             "isAlive":true,
             "diedToday":false,
         },
- 
+        {
+            "name":"Danny Flogaus",
+            "isAlive":true,
+            "diedToday":false,
+        },
     ]
 };
 
