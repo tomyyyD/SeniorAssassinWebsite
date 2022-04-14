@@ -354,7 +354,7 @@ var players = {
             "diedToday":false,
         },
         {
-            "name":"Ashton Shrum",
+            "name":"Aston Shrum",
             "isAlive":true,
             "diedToday":false,
         },
@@ -413,7 +413,37 @@ var players = {
             "isAlive":true,
             "diedToday":false,
         },
-      
+        {
+            "name":"Brandon Hays",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Mary-Kate Duffy",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Scott Hoffman",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Anna Subick",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Avery Grimm",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Natalie Brown",
+            "isAlive":true,
+            "diedToday":false,
+        },
+ 
     ]
 };
 
