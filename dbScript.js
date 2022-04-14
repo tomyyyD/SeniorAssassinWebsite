@@ -274,7 +274,7 @@ var players = {
             "diedToday":false,
         },
         {
-            "name":"Lauren Rivkins",
+            "name":"Lauren Rivkin",
             "isAlive":true,
             "diedToday":false,
         },
@@ -314,7 +314,7 @@ var players = {
             "diedToday":false,
         },
         {
-            "name":"Ella VanDruff",
+            "name":"Ella Vandruff",
             "isAlive":true,
             "diedToday":false,
         },
@@ -339,7 +339,7 @@ var players = {
             "diedToday":false,
         },
         {
-            "name":"Sydney Campbell",
+            "name":"Sydnee Campbell",
             "isAlive":true,
             "diedToday":false,
         },
@@ -488,6 +488,12 @@ var players = {
             "isAlive":true,
             "diedToday":false,
         },
+        {
+            "name":"Ethan Sabatino",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        
     ]
 };
 
