@@ -493,7 +493,12 @@ var players = {
             "isAlive":true,
             "diedToday":false,
         },
-        
+        {
+            "name":"Jon Havrilak",
+            "isAlive":true,
+            "diedToday":false,
+        },
+       
     ]
 };
 
