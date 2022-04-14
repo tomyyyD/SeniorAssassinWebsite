@@ -443,6 +443,36 @@ var players = {
             "isAlive":true,
             "diedToday":false,
         },
+        {
+            "name":"Connor Heft",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Nathaniel Jones",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Courtney Glass",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Lauren Zelinske",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Josh Devine",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        {
+            "name":"Rylee Laloup",
+            "isAlive":true,
+            "diedToday":false,
+        },
  
     ]
 };
