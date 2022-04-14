@@ -483,7 +483,11 @@ var players = {
             "isAlive":true,
             "diedToday":false,
         },
-        
+        {
+            "name":"Miranda Acosta",
+            "isAlive":true,
+            "diedToday":false,
+        },
     ]
 };
 
