@@ -294,7 +294,7 @@ var players = {
             "diedToday":false,
         },
         {
-            "name":"Bre Callahan",
+            "name":"Victor Mominey",
             "isAlive":true,
             "diedToday":false,
         },
@@ -478,6 +478,12 @@ var players = {
             "isAlive":true,
             "diedToday":false,
         },
+        {
+            "name":"Victoria Blancarte",
+            "isAlive":true,
+            "diedToday":false,
+        },
+        
     ]
 };
 
