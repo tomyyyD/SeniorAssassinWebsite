@@ -506,16 +506,21 @@ window.onload = e => {
     let playerCounter = 0;
     for (let i = 0; i < players.player.length; i++){
         let newPlayer = document.createElement("li");
+        let divider = document.createElement('hr');
+        divider.style.width = "85%";
+        newPlayer.style.textAlign = "center";
         let playerLiText = document.createTextNode(players.player[i].name)
         newPlayer.appendChild(playerLiText);
         playerCounter++;
         if (players.player[i].isAlive){    
             const aliveList = document.getElementById("alivePlayerList");
             aliveList.appendChild(newPlayer);
+            aliveList.append(divider);
         }else{
             const deadList = document.getElementById("deadPlayerList");
             if (players.player[i].diedToday){
                 let newPlayer2 = document.createElement("li");
+                newPlayer2.style.textAlign = "center";
                 let playerLiText2 = document.createTextNode(players.player[i].name)
                 newPlayer2.appendChild(playerLiText2);
         
