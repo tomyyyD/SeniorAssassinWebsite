@@ -274,7 +274,7 @@ var players = {
             "diedToday":false,
         },
         {
-            "name":"Lauren Rivkin",
+            "name":"Laura Rivkin",
             "isAlive":true,
             "diedToday":false,
         },
