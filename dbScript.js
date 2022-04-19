@@ -100,8 +100,8 @@ var players = {
         },
         {
             "name":"James Armstrong",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
         },
         {
             "name":"Ellie Kalbach",
