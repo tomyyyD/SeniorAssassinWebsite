@@ -526,9 +526,11 @@ window.onload = e => {
         
                 const todayList = document.getElementById("todayDeathList");
                 deadList.appendChild(newPlayer);
+                deadList.append(divider);
                 todayList.appendChild(newPlayer2);
             }else{
                 deadList.appendChild(newPlayer);
+                deadList.append(divider);
             }
         }
     }
