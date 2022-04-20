@@ -511,11 +511,11 @@ window.onload = e => {
         newPlayer.style.textAlign = "center";
         let playerLiText = document.createTextNode(players.player[i].name)
         newPlayer.appendChild(playerLiText);
-        playerCounter++;
         if (players.player[i].isAlive){    
             const aliveList = document.getElementById("alivePlayerList");
             aliveList.appendChild(newPlayer);
             aliveList.append(divider);
+            playerCounter++;
         }else{
             const deadList = document.getElementById("deadPlayerList");
             if (players.player[i].diedToday){
