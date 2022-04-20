@@ -101,7 +101,7 @@ var players = {
         {
             "name":"James Armstrong",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
         },
         {
             "name":"Ellie Kalbach",
@@ -475,7 +475,7 @@ var players = {
         },
         {
             "name":"Danny Flogaus",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
         },
         {
@@ -485,7 +485,7 @@ var players = {
         },
         {
             "name":"Miranda Acosta",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
         },
         {
