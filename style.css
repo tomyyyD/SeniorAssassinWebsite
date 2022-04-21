@@ -84,6 +84,11 @@ body{
     flex: 1;
 }
 
+.faq{
+    align-items: baseline;
+    width: 80%;
+}
+
 .playerList{
     display: flex;
     flex-direction: column;
