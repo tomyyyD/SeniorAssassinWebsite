@@ -50,7 +50,7 @@ var players = {
         },
         {
             "name":"James Joyce",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
         },
         {
@@ -90,7 +90,7 @@ var players = {
         },
         {
             "name":"Taylor Marburger",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
         },
         {
@@ -365,7 +365,7 @@ var players = {
         },
         {
             "name":"Blaine Waltimeyer",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
         }, 
         {
@@ -405,8 +405,8 @@ var players = {
         },
         {
             "name":"Caroline Halsey",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
         },
         {
             "name":"Bobby Bell",
@@ -470,7 +470,7 @@ var players = {
         },
         {
             "name":"Rylee Laloup",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
         },
         {
