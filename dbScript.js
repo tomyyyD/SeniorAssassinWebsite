@@ -126,7 +126,7 @@ var players = {
         {
             "name":"Cole Swierczek",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
         },
         {
             "name":"Parker Waldman",
@@ -391,7 +391,7 @@ var players = {
         {
             "name":"Preston Brindle",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
         },
         {
             "name":"Katie Murray",
@@ -406,12 +406,12 @@ var players = {
         {
             "name":"Caroline Halsey",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
         },
         {
             "name":"Bobby Bell",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
         },
         {
             "name":"Brandon Hays",
