@@ -124,9 +124,9 @@ var players = {
             "diedToday":false,
         },
         {
-            "name":"Cole Swierczech",
-            "isAlive":true,
-            "diedToday":false,
+            "name":"Cole Swierczek",
+            "isAlive":false,
+            "diedToday":true,
         },
         {
             "name":"Parker Waldman",
@@ -390,8 +390,8 @@ var players = {
         },
         {
             "name":"Preston Brindle",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
         },
         {
             "name":"Katie Murray",
