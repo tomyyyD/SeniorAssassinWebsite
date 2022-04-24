@@ -320,7 +320,7 @@ var players = {
         },
         {
             "name":"Carlee Bonanno",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
         },
         {
