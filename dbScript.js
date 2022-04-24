@@ -350,8 +350,8 @@ var players = {
         },
         {
             "name":"Lillian Heckler",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
         },
         {
             "name":"Aston Shrum",
@@ -400,8 +400,8 @@ var players = {
         },
         {
             "name":"Sebastian Herrada",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
         },
         {
             "name":"Caroline Halsey",
