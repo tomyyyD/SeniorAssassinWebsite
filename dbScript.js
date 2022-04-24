@@ -15,8 +15,8 @@ var players = {
         },
         { 
             "name":"Lauren Neuhoff",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
         },
         {
             "name":"Grace Moser",
@@ -80,7 +80,7 @@ var players = {
         },
         {
             "name":"Ellie Koitzsch",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
         },
         {
@@ -95,8 +95,8 @@ var players = {
         },
         {
             "name":"Sam Ferreira",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
         },
         {
             "name":"James Armstrong",
@@ -106,7 +106,7 @@ var players = {
         {
             "name":"Ellie Kalbach",
             "isAlive":true,
-            "diedToday":false,
+            "diedToday":true,
         },
         {
             "name":"Zachary Lineman",
@@ -190,8 +190,8 @@ var players = {
         },
         {
             "name":"Colin Horger",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
         },
         {
             "name":"Alyssa Greiner",
@@ -335,8 +335,8 @@ var players = {
         },
         {
             "name":"Brooke Aijala",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
         },
         {
             "name":"Sydnee Campbell",
