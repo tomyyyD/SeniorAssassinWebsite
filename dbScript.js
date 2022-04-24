@@ -411,7 +411,7 @@ var players = {
         {
             "name":"Bobby Bell",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
         },
         {
             "name":"Brandon Hays",
