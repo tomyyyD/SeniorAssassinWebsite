@@ -45,7 +45,7 @@ var players = {
         },
         {
             "name":"Bennet Stutzmen",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
         },
         {
@@ -65,7 +65,7 @@ var players = {
         },
         {
             "name":"Ethan Miller",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
         },
         {
@@ -110,7 +110,7 @@ var players = {
         },
         {
             "name":"Zachary Lineman",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
         },
         {
@@ -120,7 +120,7 @@ var players = {
         },
         {
             "name":"Charlotte Camp",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
         },
         {
@@ -140,12 +140,12 @@ var players = {
         },
         {
             "name":"Dylan Gazda",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
         },
         {
             "name":"Dean Mihos",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
         },
         {
@@ -220,7 +220,7 @@ var players = {
         },
         {
             "name":"Jason Commentucci",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
         },
         {
@@ -360,7 +360,7 @@ var players = {
         },
         {
             "name":"Grace Storti",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
         },
         {
@@ -375,7 +375,7 @@ var players = {
         },
         {
             "name":"Finlay Drucquer",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
         },
         {
@@ -435,7 +435,7 @@ var players = {
         },
         {
             "name":"Avery Grimm",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
         },
         {
