@@ -280,8 +280,8 @@ var players = {
         },
         {
             "name":"Carson Johnson",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
         },
         {
             "name":"Kate Callahan",
@@ -445,8 +445,8 @@ var players = {
         },
         {
             "name":"Connor Heft",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
         },
         {
             "name":"Nathaniel Jones",
