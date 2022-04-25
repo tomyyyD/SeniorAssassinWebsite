@@ -200,7 +200,7 @@ var players = {
         },
         {
             "name":"Izzy LeBlanc",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
         },
         {
