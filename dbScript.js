@@ -16,7 +16,7 @@ var players = {
         { 
             "name":"Lauren Neuhoff",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
         },
         {
             "name":"Grace Moser",
@@ -46,7 +46,7 @@ var players = {
         {
             "name":"Bennet Stutzmen",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
         },
         {
             "name":"James Joyce",
@@ -66,7 +66,7 @@ var players = {
         {
             "name":"Ethan Miller",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
         },
         {
             "name":"Thomas Damiani",
@@ -96,7 +96,7 @@ var players = {
         {
             "name":"Sam Ferreira",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
         },
         {
             "name":"James Armstrong",
@@ -111,7 +111,7 @@ var players = {
         {
             "name":"Zachary Lineman",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
         },
         {
             "name":"Caleigh Bold",
@@ -121,7 +121,7 @@ var players = {
         {
             "name":"Charlotte Camp",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
         },
         {
             "name":"Cole Swierczek",
@@ -191,7 +191,7 @@ var players = {
         {
             "name":"Colin Horger",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
         },
         {
             "name":"Alyssa Greiner",
@@ -221,7 +221,7 @@ var players = {
         {
             "name":"Jason Commentucci",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
         },
         {
             "name":"Tim Brooks",
@@ -281,7 +281,7 @@ var players = {
         {
             "name":"Carson Johnson",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
         },
         {
             "name":"Kate Callahan",
@@ -300,8 +300,8 @@ var players = {
         },
         {
             "name":"Tommy Lewmen",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
         },
         {
             "name":"Emma Gubanich",
@@ -336,7 +336,7 @@ var players = {
         {
             "name":"Brooke Aijala",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
         },
         {
             "name":"Sydnee Campbell",
@@ -351,7 +351,7 @@ var players = {
         {
             "name":"Lillian Heckler",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
         },
         {
             "name":"Aston Shrum",
@@ -361,7 +361,7 @@ var players = {
         {
             "name":"Grace Storti",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
         },
         {
             "name":"Blaine Waltimeyer",
@@ -376,7 +376,7 @@ var players = {
         {
             "name":"Finlay Drucquer",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
         },
         {
             "name":"Lilli Bergman",
@@ -401,7 +401,7 @@ var players = {
         {
             "name":"Sebastian Herrada",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
         },
         {
             "name":"Caroline Halsey",
@@ -446,7 +446,7 @@ var players = {
         {
             "name":"Connor Heft",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
         },
         {
             "name":"Nathaniel Jones",
@@ -490,8 +490,8 @@ var players = {
         },
         {
             "name":"Ethan Sabatino",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
         },
         {
             "name":"Jon Havrilak",
