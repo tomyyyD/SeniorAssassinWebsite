@@ -25,17 +25,26 @@
         <h1 class="timerText" id="timer">00d 00h 00m 00s</h1>
     </div>
     
+    <div class="timerContainer">
+        <h1 id="playerCounter"></h1>
+        <h1>&nbsp; Players Left</h1>
+    </div>
 
-    <div class="playerContainer">
-        <div class="playerBlock">
-            <h1>Total Players Left:</h1>
-            <h1 class="blockTitle" id="playerCounter"></h1>
-        </div>
-        <div class="playerBlock">
-            <h1>Recent Deaths</h1>
-            <ul class="playerList" id="todayDeathList">
-                
-            </ul>
+    <div class="playerContainer vertical">
+        <h1>This Round</h1>
+        <div style="display: flex; flex-direction: row;">
+            <div class="playerBlock">
+                <h1>Successful Assassins</h1>
+                <ul class="playerList" id="safeList">
+                    
+                </ul>
+            </div>
+            <div class="playerBlock">
+                <h1>Recent Deaths</h1>
+                <ul class="playerList" id="todayDeathList">
+                    
+                </ul>
+            </div>
         </div>
     </div>
 

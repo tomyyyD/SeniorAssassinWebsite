@@ -6,6 +6,9 @@ li{
     margin: 5px 0;
 }
 
+h1{
+    text-align: center;
+}
 
 body{
     display: flex;
@@ -71,6 +74,10 @@ body{
     overflow: hidden;
     border: white solid 2px;
     justify-content: center;
+}
+
+.vertical{
+    flex-direction: column;
 }
 
 .single{
