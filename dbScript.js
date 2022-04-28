@@ -387,7 +387,13 @@ var players = {
             "isSafe":false,
         },
         {
-            "name":"Grace Moser",
+            "name":"Taylor Marburger",
+            "isAlive":false,
+            "diedToday":false,
+            "isSafe":false,
+        },
+        {
+            "name":"Chelsea McNeff",
             "isAlive":true,
             "diedToday":false,
             "isSafe":false,
@@ -405,20 +411,20 @@ var players = {
             "isSafe":false,
         },
         {
-            "name":"Chelsea McNeff",
+            "name":"Grace Moser",
             "isAlive":true,
-            "diedToday":false,
-            "isSafe":false,
-        },
-        {
-            "name":"Taylor Marburger",
-            "isAlive":false,
             "diedToday":false,
             "isSafe":false,
         },
         { 
             "name":"Lauren Neuhoff",
             "isAlive":false,
+            "diedToday":false,
+            "isSafe":false,
+        },
+        {
+            "name":"Abby Norton",
+            "isAlive":true,
             "diedToday":false,
             "isSafe":false,
         },
@@ -484,12 +490,6 @@ var players = {
         },
         {
             "name":"Sydney Trapp",
-            "isAlive":true,
-            "diedToday":false,
-            "isSafe":false,
-        },
-        {
-            "name":"Abby Norton",
             "isAlive":true,
             "diedToday":false,
             "isSafe":false,
