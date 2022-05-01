@@ -144,7 +144,7 @@ var players = {
             "name":"Josh Devine",
             "isAlive":true,
             "diedToday":false,
-            "isSafe":false,
+            "isSafe":true,
         },
         {
             "name":"Finlay Drucquer",
@@ -166,8 +166,8 @@ var players = {
         },
         { 
             "name":"Gryphen Ferguson",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
             "isSafe":false,
         },
         {
@@ -198,12 +198,12 @@ var players = {
             "name":"Taylor Freeze",
             "isAlive":true,
             "diedToday":false,
-            "isSafe":false,
+            "isSafe":true,
         },
         {
             "name":"Sarah Gautreau",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
             "isSafe":false,
         },
         {
@@ -244,8 +244,8 @@ var players = {
         },
         {
             "name":"Liam Harrington",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
             "isSafe":false,
         },
         {
@@ -498,7 +498,7 @@ var players = {
             "name":"Aidan O'Neil",
             "isAlive":true,
             "diedToday":false,
-            "isSafe":false,
+            "isSafe":true,
         },
         {
             "name":"Kaily Zakarevicz",
@@ -508,8 +508,8 @@ var players = {
         },
         {
             "name":"Avery White",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
             "isSafe":true,
         },
         {
@@ -528,7 +528,7 @@ var players = {
             "name":"Laura Rivkin",
             "isAlive":true,
             "diedToday":false,
-            "isSafe":false,
+            "isSafe":true,
         },
         {
             "name":"Katelyn Scheeler",
@@ -540,7 +540,7 @@ var players = {
             "name":"Victor Mominey",
             "isAlive":true,
             "diedToday":false,
-            "isSafe":false,
+            "isSafe":true,
         },
         {
             "name":"Ella Vandruff",
@@ -580,8 +580,8 @@ var players = {
         },
         {
             "name":"Anna Subick",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
             "isSafe":false,
         },
         {
