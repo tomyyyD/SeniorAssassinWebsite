@@ -40,8 +40,8 @@ var players = {
         },
         {
             "name":"Lilli Bergman",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
             "isSafe":false,
         },
         {
@@ -450,7 +450,7 @@ var players = {
             "name":"Aidan O'Neil",
             "isAlive":true,
             "diedToday":false,
-            "isSafe":false,
+            "isSafe":true,
         },
         {
             "name":"Alina Orzechowski",
@@ -462,7 +462,7 @@ var players = {
             "name":"Anant Pothakamury",
             "isAlive":true,
             "diedToday":false,
-            "isSafe":false,
+            "isSafe":true,
         },
         {
             "name":"Lincoln Rajsky",
@@ -586,8 +586,8 @@ var players = {
         },
         {
             "name":"Kaily Zakarevicz",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
             "isSafe":false,
         },
         {
