@@ -108,7 +108,7 @@ var players = {
             "name":"Will Cano",
             "isAlive":true,
             "diedToday":false,
-            "isSafe":false,
+            "isSafe":true,
         },
         {
             "name":"Will Cody",
@@ -142,8 +142,8 @@ var players = {
         },
         {
             "name":"Josh Devine",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
             "isSafe":false,
         },
         {
@@ -180,7 +180,7 @@ var players = {
             "name":"Morgan Flaim",
             "isAlive":true,
             "diedToday":false,
-            "isSafe":false,
+            "isSafe":true,
         },
         {
             "name":"Danny Flogaus",
@@ -310,8 +310,8 @@ var players = {
         },
         {
             "name":"Kyle Isleib",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
             "isSafe":false,
         },
         {
@@ -498,7 +498,7 @@ var players = {
             "name":"Aston Shrum",
             "isAlive":true,
             "diedToday":false,
-            "isSafe":false,
+            "isSafe":true,
         },
         {
             "name":"Gracyn Smith",
@@ -568,8 +568,8 @@ var players = {
         }, 
         {
             "name":"Morgan Weaver",
-            "isAlive":true,
-            "diedToday":false,
+            "isAlive":false,
+            "diedToday":true,
             "isSafe":false,
         },
         {
