@@ -41,7 +41,7 @@ var players = {
         {
             "name":"Lilli Bergman",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
             "isSafe":false,
         },
         {
@@ -108,7 +108,7 @@ var players = {
             "name":"Will Cano",
             "isAlive":true,
             "diedToday":false,
-            "isSafe":true,
+            "isSafe":false,
         },
         {
             "name":"Will Cody",
@@ -143,7 +143,7 @@ var players = {
         {
             "name":"Josh Devine",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
             "isSafe":false,
         },
         {
@@ -178,9 +178,9 @@ var players = {
         },
         {
             "name":"Morgan Flaim",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
-            "isSafe":true,
+            "isSafe":false,
         },
         {
             "name":"Danny Flogaus",
@@ -196,7 +196,7 @@ var players = {
         },
         {
             "name":"Taylor Freeze",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
             "isSafe":false,
         },
@@ -298,7 +298,7 @@ var players = {
         },
         {
             "name":"Scott Hoffman",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
             "isSafe":false,
         },
@@ -311,7 +311,7 @@ var players = {
         {
             "name":"Kyle Isleib",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
             "isSafe":false,
         },
         {
@@ -418,7 +418,7 @@ var players = {
         },
         {
             "name":"Victor Mominey",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
             "isSafe":false,
         },
@@ -450,7 +450,7 @@ var players = {
             "name":"Aidan O'Neil",
             "isAlive":true,
             "diedToday":false,
-            "isSafe":true,
+            "isSafe":false,
         },
         {
             "name":"Alina Orzechowski",
@@ -462,7 +462,7 @@ var players = {
             "name":"Anant Pothakamury",
             "isAlive":true,
             "diedToday":false,
-            "isSafe":true,
+            "isSafe":false,
         },
         {
             "name":"Lincoln Rajsky",
@@ -472,7 +472,7 @@ var players = {
         },
         {
             "name":"Laura Rivkin",
-            "isAlive":true,
+            "isAlive":false,
             "diedToday":false,
             "isSafe":false,
         },
@@ -498,7 +498,7 @@ var players = {
             "name":"Aston Shrum",
             "isAlive":true,
             "diedToday":false,
-            "isSafe":true,
+            "isSafe":false,
         },
         {
             "name":"Gracyn Smith",
@@ -569,7 +569,7 @@ var players = {
         {
             "name":"Morgan Weaver",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
             "isSafe":false,
         },
         {
@@ -587,7 +587,7 @@ var players = {
         {
             "name":"Kaily Zakarevicz",
             "isAlive":false,
-            "diedToday":true,
+            "diedToday":false,
             "isSafe":false,
         },
         {
